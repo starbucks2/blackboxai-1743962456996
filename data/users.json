@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "John Student",
+        "email": "student@becuranhigh.edu",
+        "password": "student123",
+        "role": "student",
+        "grade": "12",
+        "section": "A"
+    },
+    {
+        "id": 2,
+        "name": "Jane Teacher",
+        "email": "teacher@becuranhigh.edu",
+        "password": "teacher123",
+        "role": "teacher",
+        "subject": "Science",
+        "classes": ["12-A", "11-B"]
+    },
+    {
+        "id": 3,
+        "name": "Admin User",
+        "email": "admin@becuranhigh.edu",
+        "password": "admin123",
+        "role": "admin",
+        "permissions": ["manage_users", "manage_content"]
+    }
+]
