@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "The Impact of Social Media on Student Learning",
+        "author": "Maria Santos",
+        "year": 2023,
+        "subject": "Social Science",
+        "abstract": "This study examines how social media usage affects academic performance among senior high school students.",
+        "keywords": ["social media", "academic performance", "education"],
+        "file_url": "research_papers/social_media_study.pdf",
+        "approved": true,
+        "grade_level": "11-12"
+    },
+    {
+        "id": 2,
+        "title": "Climate Change Awareness Among Youth",
+        "author": "Juan Dela Cruz",
+        "year": 2022,
+        "subject": "Environmental Science",
+        "abstract": "Research on the level of environmental awareness and attitudes towards climate change among high school students.",
+        "keywords": ["climate change", "environment", "youth"],
+        "file_url": "research_papers/climate_change_study.pdf",
+        "approved": true,
+        "grade_level": "11-12"
+    },
+    {
+        "id": 3,
+        "title": "Effects of Sleep Deprivation on Academic Performance",
+        "author": "Ana Reyes",
+        "year": 2023,
+        "subject": "Health Science",
+        "abstract": "An investigation into how sleep patterns affect test scores and learning retention.",
+        "keywords": ["sleep", "academics", "health"],
+        "file_url": "research_papers/sleep_study.pdf",
+        "approved": false,
+        "grade_level": "11-12"
+    }
+]
